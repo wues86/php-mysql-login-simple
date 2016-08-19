@@ -1,6 +1,7 @@
 # php-mysql-login
 A simple php and mySQL login system.
-#### Config.php
+#### Config
+##### config.php
 ```
 <?php
 $db_host = "localhost";  // server to connect to.

@@ -1,5 +1,6 @@
 # php-mysql-login
 A simple php and mySQL login system.
+Want to see what it's like? Click [here](https://joezwet.github.io/php-mysql-login-simple/)
 #### Config
 ##### config.php
 ```

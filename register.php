@@ -33,7 +33,7 @@ or die("Could not insert data because ".mysql_error());
 
 // print a success message
 echo "Your user account has been created!<br>"; 
-echo "Now you can <a href=login.html>log in</a>"; 
+echo "Now you can <a href='login.html'>log in</a>"; 
 }
 
 ?>
